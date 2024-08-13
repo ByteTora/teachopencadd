@@ -1,6 +1,7 @@
 # TeachOpenCADD
 
-A teaching platform for computer-aided drug design (CADD) using open source packages and data.
+
+使用开源工具包和数据的计算机辅助药物设计(CADD)教学平台
 
 ![TOC](https://img.shields.io/badge/Project-TeachOpenCADD-pink)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1486226.svg)](https://doi.org/10.5281/zenodo.1486226)
