@@ -52,34 +52,45 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volkamerlab/TeachOpenCADD/master)
 <!-- markdown-link-check-enable -->
 
-如果您迫不及待地想要阅读材料，请访问[这里](https://projects.volkamerlab.org/teachopencadd/talktorials.html)的只读版本。
+如果您迫不及待地想要阅读项目内容，请访问[这里](https://projects.volkamerlab.org/teachopencadd/talktorials.html)的只读版本。
 
-If you'd like to execute the provided notebooks, we offer two possibilities:
+如果您想执行提供的笔记本，我们提供两种可能性：
+
+在线使用 Binder。这需要大约10分钟准备时间，但不需要您进行任何设置。点击这里开始使用：Binder。一旦加载完成，您可以导航到 teachopencadd/talktorials/ 以找到可执行的笔记本。
+
+本地使用我们的 conda 包。本文档的这一部分有更多详细信息。
 
 <!-- markdown-link-check-disable-next-line -->
-- Online thanks to [Binder](https://mybinder.org/). This takes around 10 minutes to get ready, but does not require any kind of setup on your end. Click here to get started: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volkamerlab/TeachOpenCADD/master). Once it has loaded, you can navigate to `teachopencadd/talktorials/` to find the executable notebooks.
-- Locally using our `conda` package. More details in this [section of the documentation](https://projects.volkamerlab.org/teachopencadd/installing.html).
+- 在线使用 [Binder](https://mybinder.org/)。这需要大约10分钟准备时间，但不需要您进行任何设置。 点击这里使用: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volkamerlab/TeachOpenCADD/master). 一旦加载完成，您可以导航到 `teachopencadd/talktorials/`以找到可执行的示例。
 
-## TeachOpenCADD KNIME workflows
+- 在本地使用 `conda` 包. 更多细节在: [section of the documentation](https://projects.volkamerlab.org/teachopencadd/installing.html)。
+
+## 动手学CADD KNIME 工作流
 
 <!-- markdown-link-check-disable-next-line -->
 [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facs.jcim.9b00662-blue.svg)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00662)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3626897.svg)](https://doi.org/10.5281/zenodo.3626897)
 [![KNIME Hub](https://img.shields.io/badge/KNIME%20Hub-TeachOpenCADD--KNIME-yellow.svg)](https://hub.knime.com/volkamerlab/spaces/Public/latest/TeachOpenCADD/TeachOpenCADD)
 
-If you prefer to work in the context of a graphical interface, talktorials T001-T008 are also available as [KNIME workflows](https://hub.knime.com/volkamerlab/space/TeachOpenCADD/TeachOpenCADD). Questions regarding this version should be addressed using the "Discussion section" available at [this post](https://forum.knime.com/t/teachopencadd-knime/17174). You need to create a KNIME account to use the forum.
-
-## About TeachOpenCADD
-
-- [Contact](https://projects.volkamerlab.org/teachopencadd/contact.html)
-- [Acknowledgments](https://projects.volkamerlab.org/teachopencadd/acknowledgments.html)
-- [Citation](https://projects.volkamerlab.org/teachopencadd/citation.html)
-- [License](https://projects.volkamerlab.org/teachopencadd/license.html)
-- [Funding](https://projects.volkamerlab.org/teachopencadd/funding.html)
+如果你更倾向于在图形界面中工作，talktorials T001-T008 也以 [KNIME 工作流](https://hub.knime.com/volkamerlab/space/TeachOpenCADD/TeachOpenCADD)的形式提供。关于这个版本的任何问题，应该在[这篇](https://forum.knime.com/t/teachopencadd-knime/17174)文章的“讨论区”中提出。你需要创建一个 KNIME 账户才能使用论坛。
 
 
-## External resources
+## 关于动手学CADD
 
-Please refer to our TeachOpenCADD website to find a list of external resources:
-- [External packages and webservices](https://projects.volkamerlab.org/teachopencadd/external_dependencies.html) that are used in the TeachOpenCADD material
-- [Further reading material](https://projects.volkamerlab.org/teachopencadd/external_tutorials_collections.html) on Python programming, cheminformatics, structural bioinformatics, and more.
+- [联系](https://projects.volkamerlab.org/teachopencadd/contact.html)
+- [声明](https://projects.volkamerlab.org/teachopencadd/acknowledgments.html)
+- [引用](https://projects.volkamerlab.org/teachopencadd/citation.html)
+- [证书](https://projects.volkamerlab.org/teachopencadd/license.html)
+- [基金赞助](https://projects.volkamerlab.org/teachopencadd/funding.html)
+
+
+## 更多资源
+
+请访问我们的动手学CADD官网以获取更多资源:
+- [额外的包和网站资源](https://projects.volkamerlab.org/teachopencadd/external_dependencies.html)可以在动手学CADD材料中找到。
+- 有关Python编程、化学信息学和结构生物学等的[其他阅读材料](https://projects.volkamerlab.org/teachopencadd/external_tutorials_collections.html)。
+
+## 关于
+翻译校对：ByteTora
+
+联系：1224897184@qq.com
