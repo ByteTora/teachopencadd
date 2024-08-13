@@ -1,4 +1,4 @@
-# TeachOpenCADD
+# 动手学CADD
 
 
 使用开源工具包和数据的计算机辅助药物设计(CADD)教学平台
