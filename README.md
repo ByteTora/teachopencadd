@@ -1,4 +1,4 @@
-# 动手学CADD
+# 动手学CADD(TeachOpenCADD)
 
 
 使用开源工具包和数据的计算机辅助药物设计(CADD)教学平台
@@ -16,42 +16,43 @@
 
 ![GitHub closed pr](https://img.shields.io/github/issues-pr-closed-raw/volkamerlab/teachopencadd) ![GitHub open pr](https://img.shields.io/github/issues-pr-raw/volkamerlab/teachopencadd) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/volkamerlab/teachopencadd) ![GitHub open issues](https://img.shields.io/github/issues/volkamerlab/teachopencadd)
 
-> If you use TeachOpenCADD in a publication,
-> please [cite](https://projects.volkamerlab.org/teachopencadd/citation.html) us!
-> If you use TeachOpenCADD in class, please include a link back to our repository.
+> 如果您在出版物中使用了 TeachOpenCADD，请[引用](https://projects.volkamerlab.org/teachopencadd/citation.html)我们！
+> 如果您在课堂上使用了 TeachOpenCADD，请包含一个链接回到我们的代码库。
 <!-- markdown-link-check-disable-next-line -->
-> In any case, please [star](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars)
-> (and tell your students to star) those repositories you consider useful for your learning/teaching activities.
+>无论哪种情况，请[star](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars)那些您认为对您的学习或教学活动有用的代码库（并告诉您的学生也给它们点赞😄）。
 
-## Description
+
+
+## 概览
 
 <p align="center">
   <img src="docs/_static/images/TeachOpenCADD_topics.png" alt="TeachOpenCADD topics" width="800"/>
   <br>
   <font size="1">
-  Figure adapted from Figure 1 in the TeachOpenCADD publication
+  图改编自《TeachOpenCADD》出版物中的Figure 1
   <a href="https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0351-x">
   (D. Sydow <i>et al.</i>, J. Cheminformatics, 2019)</a>.
   </font>
 </p>
 
-Open source programming packages for cheminformatics and structural bioinformatics are powerful tools to build modular, reproducible, and reusable pipelines for computer-aided drug design (CADD). While documentation for such tools is available, only few freely accessible examples teach underlying concepts focused on CADD applications, addressing especially users new to the field.
+开源可编程工具包在化学信息学和结构生物信息学中是强大的工具，它们可以构建模块化、可复现和可重用的计算机辅助药物设计（CADD）流程。尽管这些工具的文档是可用的，但只有少数免费可访问的例子教授以CADD应用为重点的基本概念，特别是针对该领域的新用户。
 
-TeachOpenCADD is a teaching platform developed by students for students, which provides teaching material for central CADD topics. Since we cover both the theoretical as well as practical aspect of these topics, the platform addresses students and researchers with a biological/chemical as well as a computational background.
-
-Each topic is covered in an interactive Jupyter Notebook, using open source packages such as the Python packages `rdkit`, `pypdb`, `biopandas`, `nglview`, and `mdanalysis` (find the full list [here](https://projects.volkamerlab.org/teachopencadd/external_dependencies.html)). Topics are continuously expanded and open for contributions from the community. Beyond their teaching purpose, the TeachOpenCADD material can serve as starting point for users’ project-directed modifications and extensions.
+动手学CADD是一个由学生为学生开发的教育平台，提供以计算机辅助药物设计（CADD）为核心主题的教学材料。由于我们涵盖了这些主题的理论和实践方面，平台面向具有生物学/化学背景以及计算背景的学生和研究人员。
 
 
-**New edition**: we have extended the TeachOpenCADD platform with 6 notebooks introducing deep learning and its application to CADD related topics. 
+每个主题都通过交互式的 Jupyter Notebook 进行讲解，使用开源包，如 Python包 `rdkit`, `pypdb`, `biopandas`, `nglview`以及 `mdanalysis`等(在 [这里](https://projects.volkamerlab.org/teachopencadd/external_dependencies.html)找到完整列表)。主题正在不断扩展，并对社区的贡献开放。除了教学目的外，动手学CADD材料可以作为用户项目导向修改和扩展的起点。
 
-## Get started
+
+**版本更新**: 我们已经扩展了动手学CADD平台，新增了6个Notebook，介绍了深度学习及其在与CADD相关主题的应用。
+
+## 让我们开始吧！
 
 <!-- markdown-link-check-disable -->
 [![GH Actions Docs](https://github.com/volkamerlab/teachopencadd/workflows/Docs/badge.svg)](https://projects.volkamerlab.org/teachopencadd/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volkamerlab/TeachOpenCADD/master)
 <!-- markdown-link-check-enable -->
 
-If you can't wait and just want to read through the materials, please go to the read-only version [here](https://projects.volkamerlab.org/teachopencadd/talktorials.html).
+如果您迫不及待地想要阅读材料，请访问[这里](https://projects.volkamerlab.org/teachopencadd/talktorials.html)的只读版本。
 
 If you'd like to execute the provided notebooks, we offer two possibilities:
 
